@@ -19,6 +19,3 @@ userForm.registerFormCallback = function (data) {
         }
     });
 };
-
-
-
